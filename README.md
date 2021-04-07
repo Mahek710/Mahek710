@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ReactJS, starting off with Appdev with Flutter and looking to get into back-end Web Development
 - 💞️ I’m looking to collaborate ondesigning websites and work on app layouts
 - 📫 My LinkedIn: https://www.linkedin.com/in/mahek-mishra-bb09681b5/
-      My Instagram: https://www.instagram.com/mahek_mishra/
+-    My Instagram: https://www.instagram.com/mahek_mishra/
 
 
