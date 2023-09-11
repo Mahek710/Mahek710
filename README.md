@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mahek710
-- 🌱 I’m currently into Deep Learning, CNNs and Data Analysis
-- 👀 I’m also interested in Front-end Webdev, Graphic designing and UI/UX designing
-- 📫 My LinkedIn: https://www.linkedin.com/in/mahek-mishra-bb09681b5/
+- Hi, I’m @Mahek710, a current MSCS student at Georgia Tech, Atlanta.
+- I’m a competent software developer, with internship experiences at Oracle and SAP Labs.
+- I’m currently exploring Deep Learning and Data Analysis
+- My LinkedIn: https://www.linkedin.com/in/mahek-mishra-bb09681b5/
 
