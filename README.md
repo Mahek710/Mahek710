@@ -26,7 +26,7 @@
 
 🎨 KGinPaint – AI-Powered Image Inpainting – An extension of iRIS, this tool enables users to select a node in the scene graph and remove or replace objects from an image using inpainting techniques. This project combines scene graph reasoning with image editing, allowing for context-aware modifications in images.
 
-📜 **IEEE Published Research** – Brain Tumor Classification using **Deep Learning** 🧠  
+📜 **IEEE Published Research** – Brain Tumor Classification using **Deep Learning** 🧠  [Link to the paper](https://ieeexplore.ieee.org/document/10037548)
 
 ## 🌱 Currently Exploring  
 - **RAG pipelines with LLMs** 
