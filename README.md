@@ -6,7 +6,7 @@
 📊 Graduate TA for **Data & Visual Analytics**  
 
 ## 🚀 About Me  
-- My coding journey began in eighth grade with Java, and I haven’t looked back since. I explored graphic design and wireframing before falling in love with software development after building my first calculator app using HTML, CSS, and JavaScript. Initially, I worked with large datasets, analyzing trends, which eventually led me to the world of Machine Learning, AI, Computer Vision, and NLP—where I now thrive, building impactful and scalable solutions.
+- My coding journey began in eighth grade with Java, and I haven’t looked back since. I explored graphic design and wireframing before falling in love with software development after building my first calculator app using HTML, CSS, and JavaScript. Initially, I started working with large datasets, analyzing trends, eventually leading me to the world of Machine Learning, AI, Computer Vision, and NLP—where I now thrive, building impactful and scalable solutions.
 - A strong believer in **tech for impact**.
 - When I’m not coding, you’ll probably find me **curating my next Spotify Wrapped masterpiece** 🎶  
 
